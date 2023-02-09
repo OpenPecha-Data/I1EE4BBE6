@@ -1,0 +1,16 @@
+id: I1EE4BBE6
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:33:42.578902
+last_modified: 2023-02-10 00:33:42.579068
+source_metadata:
+  title: 'Nāgārjuna: Vigrahavyāvartanīvṛtti'
+  language: bo
+bases:
+  F6DF:
+    base_file: F6DF.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
